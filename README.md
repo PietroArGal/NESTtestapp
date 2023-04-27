@@ -51,3 +51,5 @@ $ pnpm run test:e2e
 # test coverage
 $ pnpm run test:cov
 ```
+
+### Clean api test nestjs app
